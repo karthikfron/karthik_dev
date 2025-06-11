@@ -43,7 +43,7 @@ const Hero = () => {
         {/* 📄 Bio Section */}
         <div className="text-center ml-28 sm:text-left max-w-md">
           <p className="text-base sm:text-lg font-medium mb-2">
-            I'm a <span className="text-indigo-400">21-year-old</span> B-Tech student and
+            I m a <span className="text-indigo-400">21-year-old</span> B-Tech student and
             frontend developer.
           </p>
           <p className="text-sm text-gray-300">
