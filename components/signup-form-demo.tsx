@@ -51,12 +51,12 @@ export default function SignupFormDemo() {
           type="button"
         >
           <Link
-            href="mailto:karthikmokara1@gmail.com" // Replace with your actual email
+            href="https://mail.google.com/mail/?view=cm&to=karthikmokara1@gmail.com" // Replace with your actual email
             className="flex space-x-2"
           >
             {/* You can replace the icon below with any email icon you want */}
             <IconMail className="h-5 w-5" /> 
-            <span>Email Me</span>
+            <span>Mail Me</span>
           </Link>
           <BottomGradient />
         </button>
