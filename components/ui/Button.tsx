@@ -9,7 +9,7 @@ const Button = () => {
         </span>
         <div className="relative flex space-x-2 items-center z-10 rounded-full bg-zinc-950 py-0.5 px-4 ring-1 ring-white/10 ">
             <span >
-            Available for Freelancing Projects 
+            Available for Freelancing Projects  
             </span>
             <svg
             fill="none"

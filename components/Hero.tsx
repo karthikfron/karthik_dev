@@ -5,6 +5,8 @@ import { Spotlight } from './ui/spotlight';
 import { TypewriterEffectSmoothDemo } from './magicui/TypeWriter';
 import Button from './ui/Button';
 import Follow from './Followers/Followe'
+import  '../public/Profile.png'; // Ensure this path is correct
+
 
 const Hero = () => {
   return (
@@ -15,7 +17,7 @@ const Hero = () => {
       <div className="relative flex flex-col items-center">
         <img
           className="rounded-full h-32 w-32 md:h-36 md:w-36 lg:h-44 lg:w-44 object-cover border-4 border-white"
-          src="https://i.pinimg.com/736x/48/9b/5a/489b5aa4d508ef3e18e9eecdfc50a63d.jpg"
+          src="Profile.png" // Ensure this path is correct
           alt="profile_pic"
         />
         <div className="mt-2">
