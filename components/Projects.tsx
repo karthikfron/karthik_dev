@@ -33,12 +33,13 @@ export default function Projects() {
   const projects: Record<"webdev" | "llm" | "fun", Project[]> = {
     webdev: [
       {
-        title: "Paytm wallet",
-        url: "",
-        github: "",
-        imageUrl: "https://moneymint.com/wp-content/uploads/2020/02/Screenshot_2020-02-05-14-05-22-790_net.one97.paytm-1.jpg",
-        techStack: ["React", "Express", "Node.js", "MongoDB"],
+        title: "Khata Book",
+        url: "https://khatabook-delta.vercel.app/dashboard/",
+        github: "https://github.com/karthikfron/Khatabook",
+        imageUrl: "../public/khatabook.png",
+        techStack: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
       },
+      
       {
         title: "Youtube-switch",
         url: "",
